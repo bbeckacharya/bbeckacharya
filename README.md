@@ -61,10 +61,10 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bibek Acharya&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/bbeckacharya">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bibek Acharya&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default" />
   </a>
   <a href="https://github.com/bbeckacharya">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wervlad&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bibek Acharya&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 </details>
